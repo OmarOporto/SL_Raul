@@ -1,0 +1,79 @@
+.CenterBody{
+  position: absolute;
+  background-color: #fa9644;
+  min-height: 92vh;
+  width: 72vw;
+  top: 8vh;
+  left: 28vw;
+}
+
+#PapyrusH1{
+  font-size: calc(4vmin);
+  margin-top: -14vh;
+  font-family: "Papyrus";
+}
+
+#dropdown-basice{
+  font-size: calc(2vmin);
+}
+
+#Ajedrez{
+  width: 68vw;
+  height: 20vh;
+  margin-top: 2vh;
+}
+
+#SortbyElements{
+  font-size: calc(2vmin);
+  position: absolute;
+  left: 2vw;
+  top: 24vh;
+}
+
+#DropdownSortbyElements{
+  display: inline;
+}
+
+.ContainerElements{
+  display: flex;
+  margin-top: 20vh;
+}
+
+.GamesElements{
+  width: 20vw;
+  height: 25vh;
+}
+
+.titleGamesElements{
+  display: inline;
+  font-size: calc(2.9vmin);
+}
+
+.ContainerTexts{
+  width: 32vw;
+}
+
+.textGameElements{
+  display: flex;
+  font-size: calc(2vmin);
+  text-align: justify;
+  margin-left: -10.5vw;
+  margin-top: 5vh;
+  width: 30vw;
+}
+
+#BuyButton{
+  display: flex;
+  font-size: calc(1.5vmin);
+  height: 4vh;
+  margin-left: 5vw;
+  margin-top: 10vh;
+}
+
+.textGameElements2{
+  display: flex;
+  font-size: calc(1.5vmin);
+  text-align: justify;
+  margin-left: -10.5vw;
+  width: 30vw;
+}

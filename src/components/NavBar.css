@@ -1,0 +1,51 @@
+.App-logo {
+  height: 6vmin;
+  margin: 1vh;
+  margin-left: 2vw;
+}
+
+.NavBar{
+  background-color: #505160;
+  height: 8vh;
+  max-width: 100%;
+  display: flex;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+  
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.title {
+  font-size: calc(3vmax);
+  display: inline;
+  color: #ffffff;
+  margin-right: 10vw;
+  margin-left: 1vw;
+}
+
+#ContainerElements{
+  margin-top: 1vh;
+}
+
+#WhatsappContact{
+  display: inline;
+  height: 4vh;
+  margin-bottom: 1vh;
+}
+
+.contactanos{
+  font-size: calc(1.6vmax);
+  display: inline;
+  color: #000000;
+}
